@@ -8,6 +8,8 @@ If you like this project, learn something or you are using it in your applicatio
 Description
 ----------------------------------------------------------------------------------------------------------------------
 I created this html template that focused on beautiful but simple and user friendly.
+You can use this html template as introducing your company.
+
 I used these to create this html template:
 1. html&css
 2. Bootstrap v4.4.1
