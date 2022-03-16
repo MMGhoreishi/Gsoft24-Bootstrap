@@ -9,4 +9,4 @@ Description
 ----------------------------------------------------------------------------------------------------------------------
 Sample .NET Core Web API application implemented with CQRS, Mediator Pattern approach and Domain Driven Design.
 
-![alt text](https://github.com/mghoreishi/sample-dotnet-Core-cqrs-mediator-api/blob/master/index-page-photo.png)
+![index-page-photo](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo.png)
