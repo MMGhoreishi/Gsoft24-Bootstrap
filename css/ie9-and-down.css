@@ -1,0 +1,36 @@
+body {
+    overflow: scroll !important;
+}
+.onepage-pagination {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+}
+#big-video-wrap{
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    opacity: 0;
+    display: none;
+}
+
+.slide {
+    opacity: 1 !important;
+}
+
+.settings-icon{
+    opacity: 0;
+    position: absolute !important;
+    left: -9999 !important;
+    top: -9999 !important;
+}
+.slide-1 .hide,
+.slide-2 .hide,
+.slide-3 .hide {
+    opacity: 1;
+    display: block !important;
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+}
+
