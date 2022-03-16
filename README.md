@@ -14,4 +14,4 @@ You can use this html template as introducing your company.
 
 ![index-page-photo1](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo1.png)
 ![index-page-photo2](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo2.png)
-![index-page-photo3](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo3.png)
+![index-page-photo3](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo4.png)
