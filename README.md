@@ -10,7 +10,7 @@ Description
 I created this html template that focused on beautiful but simple and user friendly.
 You can use this html template as introducing your company.
 
-![index-page-photo1](https://github.com/MMGhoreishi/gsoft24/blob/main/tools.png)
+![tools](https://github.com/MMGhoreishi/gsoft24/blob/main/tools.png)
 
 ![index-page-photo1](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo1.png)
 ![index-page-photo2](https://github.com/MMGhoreishi/gsoft24/blob/main/index-page-photo2.png)
