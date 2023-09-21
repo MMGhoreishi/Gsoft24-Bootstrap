@@ -1,5 +1,5 @@
 # html-template-with-bootstrap-for-introducing-companies
-To see the demo of this html template go to: https://mmghoreishi.github.io/gsoft24/
+To see the demo of this html template go to: https://mmghoreishi.github.io/Gsoft24-Bootstrap/
 
 Give a Star! ⭐
 ----------------------------------------------------------------------------------------------------------------------
